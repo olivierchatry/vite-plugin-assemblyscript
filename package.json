@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-assemblyscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support bulding and using assemblyscript with vitejs",
   "author": "Olivier Chatry",
   "license": "MIT", 
