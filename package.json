@@ -1,0 +1,29 @@
+{
+  "name": "vite-plugin-assemblyscript",
+  "version": "1.0.0",
+  "description": "Support bulding and using assemblyscript with vitejs",
+  "author": "Olivier Chatry",
+  "license": "MIT", 
+  "repository": "olivierchatry/vite-plugin-assemblyscript",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+  },
+  "peerDependencies": {
+    "vite": ">2.0.0-0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assemblyscript": "~0.20.1",
+    "as-bind": "~0.8.2",
+    "prettier": "~2.6.1",
+    "vite": "~2.8.6"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "assemblyscript"
+  ]
+}
