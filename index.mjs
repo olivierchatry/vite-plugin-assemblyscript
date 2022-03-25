@@ -1,4 +1,4 @@
-import asc from "assemblyscript/asc";
+import asCompiler from "assemblyscript/asc";
 import { basename, join } from 'path'
 import { tmpdir } from 'os'
 import fsp from 'fs/promises'
